@@ -40,4 +40,4 @@ fi
 ## Usage
 
 
-Rendi eseguibile lo script con `chmod +x togglessh.sh` e aggiungi un alias al tuo file di configurazione della shell (ad esempio, `.bashrc` o `.zshrc`) con `alias togglessh='/path/to/togglessh.sh'`. Ricarica la configurazione della shell con `source ~/.bashrc` o `source ~/.zshrc`.
+Rendi eseguibile lo script con `chmod +x toggle_ssh.sh` e aggiungi un alias al tuo file di configurazione della shell (ad esempio, `.bashrc` o `.zshrc`) con `alias togglessh='/path/to/toggle_ssh.sh'`. Ricarica la configurazione della shell con `source ~/.bashrc` o `source ~/.zshrc`.
